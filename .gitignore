@@ -1,0 +1,6 @@
+__pycache__
+backend/whisper
+backend/uploads
+.env
+.next
+node_modules
